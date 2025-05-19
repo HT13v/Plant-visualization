@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1747509278 source:c:\users\user\onedrive\desktop\graphics\graphics project\planetwithsin\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<chrono>
+
+1747485706 c:\users\user\onedrive\desktop\graphics\graphics project\planetwithsin\glad\include\glad\glad.h
+	<KHR/khrplatform.h>
+
+1747485706 c:\users\user\onedrive\desktop\graphics\graphics project\planetwithsin\glad\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1708700017 c:\users\user\onedrive\desktop\graphics\graphics project\planetwithsin\glfw\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<GL/glext.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glext.h>
+
+1747485706 source:c:\users\user\downloads\glad\src\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
